@@ -7,7 +7,7 @@
 
 </samp>
 
-  <img src="assets/hornet.gif" width="300"/>
+  <img src="https://raw.githubusercontent.com/pandyshwallee/pandyshwallee/master/assets/hornet.gif" width="300"/>
 
 </p>
 
@@ -22,16 +22,16 @@ Current Project: <a href="">Slepp.</a>
 
 <p align="center">
   <a href="">
-  <img src="assets/linkedin.png" width="30px" alt="LinkedIn"></a>
+  <img src="https://raw.githubusercontent.com/pandyshwallee/pandyshwallee/master/assets/linkedin.png" width="30px" alt="LinkedIn"></a>
   &nbsp; &nbsp;
   <a href="">
-  <img src="assets/twitter.png" width="30px" alt="Twitter"></a>
+  <img src="https://raw.githubusercontent.com/pandyshwallee/pandyshwallee/master/assets/twitter.png" width="30px" alt="Twitter"></a>
   &nbsp; &nbsp;
   <a href="">
-  <img src="assets/tumblr.png" width="30px" alt="Tumblr"></a>
+  <img src="https://raw.githubusercontent.com/pandyshwallee/pandyshwallee/master/assets/tumblr.png" width="30px" alt="Tumblr"></a>
     &nbsp; &nbsp;
   <a href="">
-  <img src="assets/goodreads.png" width="30px" alt="GoodReads"></a>
+  <img src="https://raw.githubusercontent.com/pandyshwallee/pandyshwallee/master/assets/goodreads.png" width="30px" alt="GoodReads"></a>
 </p> 
 
 
