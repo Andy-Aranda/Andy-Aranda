@@ -3,7 +3,7 @@
   <br>
   <samp>
   Welcome to my profile!
-  I'm <b><a href="">Andy</a></b>. <br>I'm a Computer Engineering Undergraduate Student, aspiring writer, and full-time adventure seeker.<br>
+  I'm <b><a href="">Andy</a></b>. <br>I'm a Computer Engineering Undergraduate Student, aspiring data scientist, and full-time adventure seeker.<br>
 
 </samp>
 
@@ -13,6 +13,7 @@
 
 
 <details align="center">
+
 
 <summary> <b> <samp> More about me... </samp></b></summary>
 <samp>
