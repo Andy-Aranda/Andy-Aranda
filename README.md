@@ -1,10 +1,8 @@
 # Hi there! 👋🏻 
 
-I'm Andrea, a computer engineering student who is passionate learn new
+I'm Andrea, a computer engineering student who is passionate learn new things, creating technology to elevate people, building communities and empower other girls through my 
 
-things, creating technology to elevate people, building communities and empower other
-
-girls through my example.  🌟
+example.  🌟
 <img src="https://i.imgur.com/OnRwFpP.png">
 
 
