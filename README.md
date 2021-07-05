@@ -1,9 +1,5 @@
 # Hi there! 👋🏻 
-<div style="text-align: center"> I'm Andrea, a computer engineering student who is passionate learn new things, creating
-
-technology to elevate people, building communities and empower other girls through my 
-
-example.  🌟 </div>
+<div style="text-align: center"> I'm Andrea, a computer engineering student who is passionate learn new things, creating technology to elevate people, building communities and empower other girls through my example.  🌟 </div>
 
 
 <center>
