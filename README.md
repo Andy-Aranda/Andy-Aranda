@@ -1,43 +1,27 @@
-# <tt>Hi there!</tt> 👋🏻 
-<div style="text-align: center">I'm Andrea, a computer engineering student who is passionate learn new things, creating technology to elevate people, building communities and empower other girls through my example.  🌟 
-</div> 
+<h1 align="center">Hi 👋, I'm Andrea</h1>
+<h3 align="center">a computer engineering student who is passionate about data, creating technology to elevate people, building communities and empower other girls through my example. 🌟</h3>
 
+- 🔭 I’m currently working on **Platzi**
 
-<center>
-<img src="https://i.imgur.com/OnRwFpP.png" width="300" "text-align: center">
-</center>
+- 🌱 I’m currently learning **about Data Engineering: Spark, AWS**
 
+- 👯 I’m looking to collaborate on **open source projects related to data**
 
-### <tt>Active skills</tt>
-<section>
-  <div>
-     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" **alt="MySQL icon" width="45" height="45"/>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" **alt="Linux icon" width="45" height="45"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python oriented to Data Science" **alt="Python icon" width="45" height="45x"/>
-         <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" **alt="Pandas icon" width="45" height="45x"/>
-          <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="Git" **alt="Git icon" width="45" height="45x"/>
-           <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" **alt="GitHub icon" width="45" height="45x"/>
-            <!-- img src="https://github.com/devicons/devicon/blob/master/icons/hugo/hugo-original.svg" title="Hugo" **alt="Hugo icon" width="45" height="45x"/-- >
+- 👨‍💻 All of my projects are available at [andyengineer.dev](andyengineer.dev)
 
-  </div>
-</section>
+- 💬 Ask me about **Python, SQL, Git and Github**
 
-<!-- ### <tt>Passives skills</tt>
-<section>
-  <div>
-     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="Docker" **alt="Docker icon" width="50" height="50"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" title="Mongo DB" **alt="Mongo DB, non relational DB" width="45" height="45x"/>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" **alt="Relational database" width="45" height="45x"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="GNU Linux" **alt="Linux OS" width="45" height="45x"/>
+- 📫 How to reach me **andrea@andyengineer.dev**
 
-  </div> -->
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Qjn1E112xGacToYr2eVDBoD3rkYteW8n/view](https://drive.google.com/file/d/1Qjn1E112xGacToYr2eVDBoD3rkYteW8n/view)
 
-</section>
+- ⚡ Fun fact **I love to play the ukulele!**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/andrea_aranda16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="andrea_aranda16" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/andrea-aranda-rdz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andrea-aranda-rdz" height="30" width="40" /></a>
+</p>
 
-
-### <tt>Find me around the web 🌎 : </tt>
-<tt div style="text-align: center">Watch my 
-    <!-- img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="Linkedin" **alt="Linkedin icon" width="45" height="45x"/-->
-<a href="www.linkedin.com/in/andrea-aranda-rdz">LinkedIn</tt> 💼
-</div>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://gohugo.io/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
