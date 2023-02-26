@@ -15,11 +15,11 @@
       <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" **alt="Linux icon" width="45" height="45"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python oriented to Data Science" **alt="Python icon" width="45" height="45x"/>
          <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" **alt="Pandas icon" width="45" height="45x"/>
-          <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git icon" width="45" height="45x"/>
+          <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="Git" **alt="Git icon" width="45" height="45x"/>
            <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" **alt="GitHub icon" width="45" height="45x"/>
+            <!-- img src="https://github.com/devicons/devicon/blob/master/icons/hugo/hugo-original.svg" title="Hugo" **alt="Hugo icon" width="45" height="45x"/-- >
 
 
-      <!--<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" **alt="JavaScript" title="Web Development language" width="45" height="45"/> -->
   
   </div>
 </section>
