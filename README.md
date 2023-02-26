@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andrea</h1>
-<h3 align="center">A computer engineering student who is passionate about data and it's going to be a Data Engineer very soon, creating technology to elevate people, building communities and empower other girls through my example. 🌟</h3>
+<h3 align="center">A computer engineering student who is passionate about data (and it's going to be a Data Engineer very soon), creating technology to elevate people, building communities and empower other girls through my example. 🌟</h3>
 
 
 <p align="center">
