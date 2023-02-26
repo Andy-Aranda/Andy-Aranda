@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Andrea</h1>
 <h3 align="center">a computer engineering student who is passionate about data, creating technology to elevate people, building communities and empower other girls through my example. 🌟</h3>
 
+
+<center>
+<img src="https://i.imgur.com/OnRwFpP.png" width="300" "text-align: center">
+</center>
+
+
 - 🔭 I’m currently working on **Platzi**
 
 - 🌱 I’m currently learning **about Data Engineering: Spark, AWS**
