@@ -38,6 +38,6 @@
 
 ### <tt>Find me around the web 🌎 : </tt>
 <tt div style="text-align: center">Watch my 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="Linkedin" **alt="Linkedin icon" width="45" height="45x"/>
+    <!-- img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="Linkedin" **alt="Linkedin icon" width="45" height="45x"/-->
 <a href="www.linkedin.com/in/andrea-aranda-rdz">LinkedIn</tt> 💼
 </div>
