@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **andrea@andyengineer.dev**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Qjn1E112xGacToYr2eVDBoD3rkYteW8n/view](https://drive.google.com/file/d/1Qjn1E112xGacToYr2eVDBoD3rkYteW8n/view)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1ymlyYmSsAwjWmsqs56UlxMDvxRKIulMZ/view?usp=sharing)
 
 - ⚡ Fun fact **I love to play the ukulele!**
 
