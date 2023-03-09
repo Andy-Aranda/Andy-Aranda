@@ -7,8 +7,6 @@
 </p>
 
 
-- 🔭 I’m currently working on **Platzi**
-
 - 🌱 I’m currently learning **about Data Engineering: Spark, AWS**
 
 - 👯 I’m looking to collaborate on **open source projects related to data**
