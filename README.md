@@ -12,6 +12,7 @@
 
 ```python
 andrea = {
+
     "pronouns": ["she", "her"],
 
     "code": ["Python", "C", "C++"],
@@ -21,8 +22,9 @@ andrea = {
     "databases": ["MySQL", "PostgreSQL"],
 
     "frameworks": ["Pandas", "Seaborn", "Hugo", "Tailwind"],
-    
+
     "challenge": "I am doing the #100DaysOfCode challenge focused on Python"
+    
 }
 ```
 
