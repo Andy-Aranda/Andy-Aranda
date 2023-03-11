@@ -13,10 +13,15 @@
 ```python
 andrea = {
     "pronouns": ["she", "her"],
+
     "code": ["Python", "C", "C++"],
+
     "tools": ["Docker", "Git/Github", "Linux"],
+
     "databases": ["MySQL", "PostgreSQL"],
+
     "frameworks": ["Pandas", "Seaborn", "Hugo", "Tailwind"],
+    
     "challenge": "I am doing the #100DaysOfCode challenge focused on Python"
 }
 ```
