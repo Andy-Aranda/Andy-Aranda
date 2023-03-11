@@ -18,7 +18,7 @@ andrea = {
 
     "code": ["Python", "C", "C++"],
 
-    "tools": ["Docker", "Git/Github", "Linux"],
+    "tools": ["Docker", "Git/Github", "Linux", "Spark"],
 
     "databases": ["MySQL", "PostgreSQL"],
 
