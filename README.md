@@ -3,7 +3,6 @@
 <p><em>Data Enginner at <a href="https://www.uam.mx/">Universidad Autónoma Metropolitana </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Twitter: andrea_aranda16](https://img.shields.io/twitter/follow/andrea_aranda16?style=social)](https://twitter.com/andrea_aranda16)
 [![Linkedin: andrea-aranda-rdz](https://img.shields.io/badge/-Conect-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/andrea-aranda-rdz/)
 [![GitHub Andy-Aranda](https://img.shields.io/github/followers/Andy-Aranda?label=follow&style=social)](https://github.com/Andy-Aranda)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://andyengineer.dev/)](https://andyengineer.dev/)
