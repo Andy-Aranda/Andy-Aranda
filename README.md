@@ -1,6 +1,6 @@
 <h2> Hi, I'm Andrea! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media1.giphy.com/media/dWxO36Jzd6bTSt5dIY/giphy.gif?cid=ecf05e47dcosfpcubrbfgluiazudlqhebts8j8lmhvahnwpu&rid=giphy.gif&ct=s" width="230">
-<p><em>Data Enginner </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>I'm a Mexican Data Enginner </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Linkedin: andrea-aranda-rdz](https://img.shields.io/badge/-Conect-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/andrea-aranda-rdz/)
@@ -16,7 +16,7 @@
   <div>
      <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" **alt="AWS" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python oriented to Data Science" **alt="Python programming language" width="45" height="45x"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" **alt="GitHub" width="45" height="45x"/>
+        <img src="https://www.svgrepo.com/show/475654/github-color.svg" title="GitHub" **alt="GitHub" width="45" height="45x"/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" **alt="Linux" title="Linux OS" width="45" height="45"/>
   
   </div>
