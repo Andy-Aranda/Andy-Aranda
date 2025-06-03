@@ -17,7 +17,8 @@
      <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" **alt="AWS" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python oriented to Data Science" **alt="Python programming language" width="45" height="45x"/>
         <img src="https://www.svgrepo.com/show/475654/github-color.svg" title="GitHub" **alt="GitHub" width="45" height="45x"/>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" **alt="Linux" title="Linux OS" width="45" height="45"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" **alt="Relational database" width="45" height="45x"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="Docker" **alt="Docker icon" width="50" height="50"/>
   
   </div>
 </section>
@@ -26,11 +27,10 @@
 
 <section>
   <div>
-     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="Docker" **alt="Docker icon" width="50" height="50"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" title="Mongo DB" **alt="Mongo DB, non relational DB" width="45" height="45x"/>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" **alt="Relational database" width="45" height="45x"/>
             <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title="Terraform" **alt="Terraform" width="45" height="45x"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original-wordmark.svg" title="Apache Spark" **alt="Spark" width="45" height="45x"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" **alt="Linux" title="Linux OS" width="45" height="45"/>
 <!--     <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="GNU Linux" **alt="Linux OS" width="45" height="45x"/> -->
 
   </div>
