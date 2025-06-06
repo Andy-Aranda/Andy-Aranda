@@ -16,7 +16,7 @@
   <div>
      <img src="https://www.svgrepo.com/show/448266/aws.svg" title="AWS" **alt="AWS" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python oriented to Data Engineering" **alt="Python programming language" width="45" height="45x"/>
-        <img src="https://www.svgrepo.com/show/475654/github-color.svg" title="GitHub" **alt="GitHub" width="45" height="45x"/>
+        <!--  <img src="https://www.svgrepo.com/show/475654/github-color.svg" title="GitHub" **alt="GitHub" width="45" height="45x"/> -->
         <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" **alt="Relational database" width="45" height="45x"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="Docker" **alt="Docker icon" width="50" height="50"/>
         <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/3/dbt-ytv7trkoaqcnvr5yxcvvk.png/dbt-384wi7nth5d4pvytczw6vn.png?_a=DATAdtAAZAA0" title="dbt" **alt="dbt icon" width="50" height="50"/>
