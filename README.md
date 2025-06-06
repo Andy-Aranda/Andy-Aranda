@@ -14,7 +14,7 @@
 
 <section>
   <div>
-     <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" **alt="AWS" width="40" height="40"/>
+     <img src="[https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg](https://logohistory.net/wp-content/uploads/2023/06/AWS-Emblem.png)" title="AWS" **alt="AWS" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python oriented to Data Science" **alt="Python programming language" width="45" height="45x"/>
         <img src="https://www.svgrepo.com/show/475654/github-color.svg" title="GitHub" **alt="GitHub" width="45" height="45x"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" **alt="Relational database" width="45" height="45x"/>
