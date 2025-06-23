@@ -33,18 +33,25 @@
   </a>
 </p>
 
-### <tt>Passive skills</tt>
+<h3><tt>Passive skills</tt></h3>
 
-<section>
-  <div>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" title="Mongo DB" **alt="Mongo DB, non relational DB" width="45" height="45x"/>
-            <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title="Terraform" **alt="Terraform" width="45" height="45x"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original-wordmark.svg" title="Apache Spark" **alt="Spark" width="45" height="45x"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" **alt="Linux" title="Linux OS" width="45" height="45"/>
-<!--     <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="GNU Linux" **alt="Linux OS" width="45" height="45x"/> -->
+<p align="left">
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" title="MongoDB" alt="Mongo DB, non relational DB" width="45" height="45"/>
+  </a>
+  
+  <a href="https://www.terraform.io/" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title="Terraform" alt="Terraform" width="45" height="45"/>
+  </a>
 
-  </div>
-</section>
+  <a href="https://spark.apache.org/" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original-wordmark.svg" title="Apache Spark" alt="Spark" width="45" height="45"/>
+  </a>
+
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux OS" alt="Linux" width="45" height="45"/>
+  </a>
+</p>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you!</b> :)</em>
 
