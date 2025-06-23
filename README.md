@@ -20,7 +20,7 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" **alt="Relational database" width="45" height="45x"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="Docker" **alt="Docker icon" width="50" height="50"/>
         <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/3/dbt-ytv7trkoaqcnvr5yxcvvk.png/dbt-384wi7nth5d4pvytczw6vn.png?_a=DATAdtAAZAA0" title="dbt" **alt="dbt icon" width="50" height="50"/>
-        <img src="https://images.icon-icons.com/2699/PNG/512/databricks_logo_icon_170295.png" title="Databricks" **alt="Databricks icon" width="35" height="35"/>
+        <img src="https://images.icon-icons.com/2699/PNG/512/databricks_logo_icon_170295.png" title="Databricks" **alt="Databricks icon" width="30" height="30"/>
   
   </div>
 </section>
