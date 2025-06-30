@@ -4,7 +4,6 @@
 </em></p>
 
 [![Linkedin: andrea-aranda-rdz](https://img.shields.io/badge/-Conect-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/andrea-aranda-rdz/)
-[![GitHub Andy-Aranda](https://img.shields.io/github/followers/Andy-Aranda?label=follow&style=social)](https://github.com/Andy-Aranda)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://datandy.com/)](https://datandy.com/)
 
 
