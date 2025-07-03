@@ -24,9 +24,6 @@
   <a href="https://www.docker.com/" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="Docker" alt="Docker" width="50" height="50"/>
   </a>
-  <a href="https://docs.getdbt.com/" target="_blank">
-    <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/3/dbt-ytv7trkoaqcnvr5yxcvvk.png/dbt-384wi7nth5d4pvytczw6vn.png?_a=DATAdtAAZAA0" title="dbt" alt="dbt" width="50" height="50"/>
-  </a>
   <a href="https://www.databricks.com/" target="_blank">
     <img src="https://images.icon-icons.com/2699/PNG/512/databricks_logo_icon_170295.png" title="Databricks" alt="Databricks" width="33" height="33"/>
   </a>
@@ -50,7 +47,11 @@
   <a href="https://www.linux.org/" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux OS" alt="Linux" width="45" height="45"/>
   </a>
+  <a href="https://docs.getdbt.com/" target="_blank">
+    <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/3/dbt-ytv7trkoaqcnvr5yxcvvk.png/dbt-384wi7nth5d4pvytczw6vn.png _a=DATAdtAAZAA0" title="dbt" alt="dbt" width="50" height="50"/>
+  </a>
 </p>
+
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you!</b> :)</em>
 
