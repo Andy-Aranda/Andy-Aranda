@@ -48,7 +48,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux OS" alt="Linux" width="45" height="45"/>
   </a>
   <a href="https://docs.getdbt.com/" target="_blank">
-    <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/3/dbt-ytv7trkoaqcnvr5yxcvvk.png/dbt-384wi7nth5d4pvytczw6vn.png _a=DATAdtAAZAA0" title="dbt" alt="dbt" width="50" height="50"/>
+    <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/3/dbt-ytv7trkoaqcnvr5yxcvvk.png/dbt-384wi7nth5d4pvytczw6vn.png?_a=DATAdtAAZAA0" title="dbt" alt="dbt" width="50" height="50"/>
   </a>
 </p>
 
