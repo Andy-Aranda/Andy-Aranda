@@ -30,7 +30,11 @@
   <a href="https://www.databricks.com/" target="_blank">
     <img src="https://images.icon-icons.com/2699/PNG/512/databricks_logo_icon_170295.png" title="Databricks" alt="Databricks" width="33" height="33"/>
   </a>
+  <a href="https://spark.apache.org/" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original-wordmark.svg" title="Spark" alt="Spark" width="45" height="45"/>
+  </a>
 </p>
+
 
 <h3><tt>Passive skills</tt></h3>
 
@@ -41,10 +45,6 @@
   
   <a href="https://www.terraform.io/" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title="Terraform" alt="Terraform" width="45" height="45"/>
-  </a>
-
-  <a href="https://spark.apache.org/" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original-wordmark.svg" title="Apache Spark" alt="Spark" width="45" height="45"/>
   </a>
 
   <a href="https://www.linux.org/" target="_blank">
